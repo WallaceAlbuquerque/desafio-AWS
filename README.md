@@ -1,4 +1,4 @@
-# Redução de Custos com AWS – Soluções para Empresas Farmacêuticas
+ Redução de Custos com AWS – Soluções para Empresas Farmacêuticas
 
 Este documento apresenta **três ferramentas da AWS** com foco em **reduzir custos operacionais**, melhorar a **eficiência**, e **modernizar a infraestrutura** de uma empresa do setor farmacêutico.
 
